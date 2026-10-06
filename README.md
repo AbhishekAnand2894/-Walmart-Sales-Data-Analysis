@@ -121,11 +121,6 @@ Possible extensions to this project:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. 
-
----
 
 ## Acknowledgments
 
